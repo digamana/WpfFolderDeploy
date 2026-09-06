@@ -1,4 +1,4 @@
-Auto Updater WPF 使用說明
+使用說明
 
 一、發布
 1. 發布畫面依 EnvSetting.json 自動產生專案與環境。
