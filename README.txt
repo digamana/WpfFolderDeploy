@@ -11,7 +11,7 @@ Auto Updater WPF 使用說明
 8. 發布完成後會跳出完成訊息。
 
 二、建立部版環境
-1. 如果 C:\SVN_Release 下缺少對應發布資料夾或 PowerShell 腳本，畫面會顯示「建立部版環境」按鈕。
+1. 如果 目標路徑 下缺少對應發布資料夾或 PowerShell 腳本，畫面會顯示「建立部版環境」按鈕。
 2. 按下後會建立空資料夾，並依 EnvSetting.json 產生發布用 ps1。
 3. 若資料夾和 ps1 都存在，按鈕會隱藏。
 
@@ -28,7 +28,3 @@ Auto Updater WPF 使用說明
 五、LOG
 1. LOG 分頁可依 projName、日期區間與關鍵字載入本機 C:\temp 下的 log。
 2. 每張發布卡片也有唯讀狀態文字框，可查看最近狀態。
-
-六、教學
-1. 本分頁內容來自 README.txt。
-2. 編輯後請按「儲存 README」更新檔案。
