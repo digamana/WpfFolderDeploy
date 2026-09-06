@@ -1,0 +1,57 @@
+﻿{
+  "EnvSetting": [
+    {
+      //專案A
+      "Type": "Test",
+      "projName": "專案A",
+      "Memo": "",
+	  //你的本機專案路徑 EX:C:/SVN/PROJ_DEV/
+      "osswebClint_local": "C:/SVN/PROJ_DEV/",
+	  
+	  //你的遠端專案路徑 EX:C:/Web/PROJ_DEV/
+      "osswebClint_remote": "C:/Web/PROJ_DEV/",
+	  
+	  //遠端專案更版前備份路徑 EX:C:/Web/Backup/PROJ_DEV
+      "osswebClint_backup_remote": "C:/Web/Backup/PROJ_DEV",
+      "Server": [
+        {
+          "ip": "192.168.1.1",
+          "username": "username",
+          "password": "password"
+        },
+		{
+          "ip": "192.168.1.2",
+          "username": "username",
+          "password": "password"
+        },
+      ]
+    },
+    {
+      //專案B
+      "Type": "Test",
+      "projName": "專案B",
+      "Memo": "",
+	  //你的本機專案路徑 EX:C:/SVN/PROJ_DEV/
+      "osswebClint_local": "C:/SVN/PROJ_DEV/",
+	  
+	  //你的遠端專案路徑 EX:C:/Web/PROJ_DEV/
+      "osswebClint_remote": "C:/Web/PROJ_DEV/",
+	  
+	  //遠端專案更版前備份路徑 EX:C:/Web/Backup/PROJ_DEV
+      "osswebClint_backup_remote": "C:/Web/Backup/PROJ_DEV",
+      "Server": [
+        {
+          "ip": "192.168.1.1",
+          "username": "username",
+          "password": "password"
+        },
+		{
+          "ip": "192.168.1.2",
+          "username": "username",
+          "password": "password"
+        },
+      ]
+    },
+  ]
+}
+
